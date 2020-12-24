@@ -38,3 +38,10 @@ body {
   .tiles .box-wrapper > a {
     color: white;
   }
+
+  #back-to-home{
+
+    color: Blue;
+    border: 3px ridge black
+
+  }
